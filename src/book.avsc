@@ -1,7 +1,7 @@
 {
 	"namespace": "com.github.timtebeek.avro",
 	"type": "record",
-	"name": "Book",
+	"name": "book",
 	"fields": [
 		{
 			"name": "bookId",
