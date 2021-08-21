@@ -1,5 +1,5 @@
 {
-	"namespace": "com.github.timtebeek.avro",
+	"namespace": "org.example",
 	"type": "record",
 	"name": "price",
 	"fields": [
